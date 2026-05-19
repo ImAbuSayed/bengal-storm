@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bengal Storm
+
+This log tracks the cryptographic history and versioning for the song **Bengal Storm** (bengal-storm).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T21:53:43.873471 | `v1` | `d8ac2e86f4c6000ee3ab1f13971061523140119f02a8d466e5a3276e74e88215` | `22cecd025816915053254b524009cafcbaeab837cc677c07e1c556c5ae85f2c2` | `2026-05-19_bengal-storm-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
